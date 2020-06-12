@@ -8,8 +8,9 @@ Try pressing all the keys and see them saluting you!
 
 Svg and background sources:
 
-    - [icon](https://www.flaticon.com/authors/freepik) - butterfly.svg file
-    - [background](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText), made by [trevor pye](https://unsplash.com/@trevmepix?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) - directly by link
+- [icon](https://www.flaticon.com/authors/freepik) - butterfly.svg file
+- [background](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText), made by [trevor pye](https://unsplash.com/@trevmepix?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) - directly by link
 
-@Debian based
+@Debian based system:
+
 To launch the application, just download the repository into a folder and type the command "python -m http.server", it will be loaded on your localhost 8000 port by default!
