@@ -3,7 +3,7 @@ function main() {
   var numberOfPositions = 10;
   var numberOfConfigurations = 4;
   var butterflies = [];
-  var JSONConfigFile = "configurations.json";
+  var JSONConfigFile = "resources/configurations.json";
 
   // initializes the svg container
   var svgContainer = d3
@@ -54,7 +54,7 @@ function main() {
         .attr("id", "butterfly" + this.id)
         .attr("class", "butterfly");
       // imports the icon from an svg file
-      d3.xml("butterfly.svg").then((data) => {
+      d3.xml("resources/butterfly.svg").then((data) => {
         butterfly.node().append(data.documentElement);
       });
       // after creation, moves the butterfly to the starting configuration
