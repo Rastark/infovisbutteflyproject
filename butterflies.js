@@ -1,7 +1,6 @@
 function main() {
   var numberOfButterflies = 10;
   var numberOfPositions = 10;
-  var numberOfConfigurations = 4;
   var butterflies = [];
   var JSONConfigFile = "resources/configurations.json";
 
