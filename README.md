@@ -1,4 +1,4 @@
-# infovisbutteflyproject
+# Information Visualization First Project
 
 University of Roma Tre Information Visualization First Project
 
