@@ -1,4 +1,4 @@
-# infovisbutteflyproject
+# Information Visualization First Project
 
 University of Roma Tre Information Visualization First Project
 
@@ -13,4 +13,9 @@ Svg and background sources:
 
 @Debian based system:
 
-To launch the application, just download the repository into a folder and type the command "python -m http.server", it will be loaded on your localhost 8000 port by default!
+To launch the application, just download the repository into a folder and type:
+
+    $ pip install httpserver
+    $ python -m http.server
+
+It will be loaded on your localhost 8000 port by default!
