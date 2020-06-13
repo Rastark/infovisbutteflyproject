@@ -15,7 +15,7 @@ Svg and background sources:
 
 To launch the application, just download the repository into a folder, open the termin and type the command 
 
-  $ pip install httpserver
-  $ python -m http.server
+  pip install httpserver
+  python -m http.server
 
 it will be loaded on your localhost 8000 port by default!
